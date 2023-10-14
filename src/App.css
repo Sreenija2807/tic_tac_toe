@@ -1,0 +1,15 @@
+body{
+  margin-left: 50px;
+  margin-top: 50px;
+}
+button{
+  height:100%;
+  width: 4%;
+  float :left;
+}
+.board-row{
+  height:60px;
+  background-color: white;
+}
+
+
